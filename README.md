@@ -6,3 +6,5 @@ Coffee Shop Sale's Analysis PRESENTATION
 <img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/33b8eb96-641d-435b-b8c8-f942ec8b72ac" />
 <img width="1332" height="751" alt="image" src="https://github.com/user-attachments/assets/15292b92-8ae7-4099-be29-71bbd7b1464e" />
 <img width="1320" height="737" alt="image" src="https://github.com/user-attachments/assets/b4d6cd02-1bac-4894-b525-0afa97549a40" />
+<img width="1359" height="768" alt="image" src="https://github.com/user-attachments/assets/aad8e2a3-aeb4-4166-9434-d085ed858663" />
+
