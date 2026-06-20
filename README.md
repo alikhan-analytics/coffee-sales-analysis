@@ -5,3 +5,4 @@ Coffee Shop Sales Dashboard showcasing interactive analysis of sales, footfall, 
 Coffee Shop Sale's Analysis PRESENTATION
 <img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/33b8eb96-641d-435b-b8c8-f942ec8b72ac" />
 <img width="1332" height="751" alt="image" src="https://github.com/user-attachments/assets/15292b92-8ae7-4099-be29-71bbd7b1464e" />
+<img width="1320" height="737" alt="image" src="https://github.com/user-attachments/assets/b4d6cd02-1bac-4894-b525-0afa97549a40" />
